@@ -9,3 +9,5 @@ Output
 
 Contact info:
 https://www.linkedin.com/in/kwame-arms/ 
+
+Contributor Covenant Code of Conduct has been added, please review.
