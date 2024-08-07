@@ -11,3 +11,4 @@ Contact info:
 https://www.linkedin.com/in/kwame-arms/ 
 
 Contributor Covenant Code of Conduct has been added, please review.
+All contributions, and ideas are welcome. Let's work together.
